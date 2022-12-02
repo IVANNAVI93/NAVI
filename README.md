@@ -1,2 +1,9 @@
 # NAVI
 HOLA 
+HELLO 
+
+HI
+
+PIBE 
+
+GOOD 
